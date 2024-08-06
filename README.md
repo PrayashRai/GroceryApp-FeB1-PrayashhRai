@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# GroceryApp-FeB1-PrayashhRai
+The Grocery App is a user-friendly application designed to streamline the grocery shopping experience. With features like a dynamic grocery list, real-time updates, and easy item management, this app aims to make grocery shopping efficient and organized.
+>>>>>>> c22acc052f4cb07892e4f96105bf93f6af68c9c3
